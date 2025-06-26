@@ -5,7 +5,7 @@ This project mimics the mobile version of Netflix’s layered navigation system 
 
 ## 👩‍💻 Collaborators
 
-- [Amina Liaquat](https://github.com/amina-liaquat) 
+- [Amina Liaquat](https://github.com/amina-liaquat56) 
 - [Mahnoor Fatima](https://github.com/mahnoor-987)
 
   ## 🛠️ Technologies Used
