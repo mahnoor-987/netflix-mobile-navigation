@@ -24,3 +24,7 @@ This project mimics the mobile version of Netflix’s layered navigation system 
 - 🧭 Nested navigation list inside white layer  
 - 🚀 Smooth transition effects using pure CSS  
 - ❌ Close button to slide the menu back
+
+  ## 🔄 Clone the repository
+  
+https://github.com/amina-liaquat56/netflix-mobile-navigation.git
